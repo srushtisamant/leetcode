@@ -1,3 +1,3 @@
-# leetcode
+# Leetcode Progress
 
-Adding a repository to track my LeetCode progress and save my codes.
+Adding a repository to track my LeetCode progress and store my codes.
